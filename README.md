@@ -4,6 +4,7 @@ https://praias.onrender.com/
 
 Este repositório contém um site simples desenvolvido com Flask e hospedado no Render. O objetivo é demonstrar como criar e implantar uma aplicação Flask de forma gratuita.
 
+
 🚀 Tecnologias Utilizadas
 
 Python 3.10+
@@ -16,6 +17,7 @@ HTML/CSS (Templates para a interface)
 
 Render (Plataforma de hospedagem)
 
+
 📂 Estrutura do Projeto
 
 /meu_projeto
@@ -25,6 +27,7 @@ Render (Plataforma de hospedagem)
 │── Procfile  # Comando para rodar a aplicação no Render
 │── index.py  # Código principal do Flask
 │── README.md  # Documentação do projeto
+
 
 ⚙️ Como Rodar Localmente
 
@@ -48,6 +51,7 @@ python index.py
 
 Acesse o site no navegador: http://127.0.0.1:5000
 
+
 🌍 Como Implantar no Render
 
 1️⃣ Suba o projeto para o GitHub:
@@ -70,6 +74,7 @@ Environment: Python 3.10+
 
 5️⃣ Clique em Deploy e aguarde a publicação!
 
+
 🛠 Solução de Problemas
 
 Caso encontre erros ao implantar, verifique:
@@ -80,8 +85,9 @@ Se o nome do arquivo Flask está correto no Procfile.
 
 Os logs no Render para mais detalhes.
 
+
 📜 Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar! 😃
 
-Feito com ❤️ por Seu Nome 🚀
+Feito por Bruno 🚀
